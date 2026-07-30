@@ -22,8 +22,13 @@ http://127.0.0.1:5500/index.html
 Technologies Used:
 
 HTML5
+
 CSS3
+
 JavaScript
+
+
+
 🖼️ Task 2: Image Gallery
 A modern image gallery with a responsive layout for displaying and browsing images.
 
