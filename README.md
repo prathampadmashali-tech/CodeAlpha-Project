@@ -4,7 +4,7 @@ This repository contains all the projects completed during my CodeAlpha Web Deve
 📋 Internship Details
 Organization: CodeAlpha
 Domain: Web Development
-Intern: Mahammad Rahil Vahora
+Intern: Pratham Padmashali
 Duration: Internship Program
 📂 Repository Structure
 CODEALPHA INTERNSHIP/
@@ -18,8 +18,7 @@ CODEALPHA INTERNSHIP/
 A responsive calculator application capable of performing basic arithmetic operations.
 
 🔗 Live Demo:
-https://mahammad-rahil-vahora.github.io/codealpha_tasks/Calculater/
-
+http://127.0.0.1:5500/index.html
 Technologies Used:
 
 HTML5
