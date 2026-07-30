@@ -11,8 +11,7 @@ CODEALPHA INTERNSHIP/
 │
 ├── Calculater/          # Source files for the basic calculator application
 ├── Image_Gallery/       # Grid gallery files and responsive assets
-├── Music_Player/        # Audio logic application featuring a local media queue
-└── Portfolio/           # Core personal hub documenting developer background & skills
+
 🎯 Completed Tasks
 🧮 Task 1: Basic Calculator
 A responsive calculator application capable of performing basic arithmetic operations.
@@ -38,5 +37,7 @@ http://127.0.0.1:5500/
 Technologies Used:
 
 HTML5
+
 CSS3
+
 JavaScript
