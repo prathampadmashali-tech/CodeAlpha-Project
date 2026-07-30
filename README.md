@@ -28,7 +28,7 @@ JavaScript
 A modern image gallery with a responsive layout for displaying and browsing images.
 
 🔗 Live Demo:
-https://mahammad-rahil-vahora.github.io/codealpha_tasks/Image_Gallery/
+http://127.0.0.1:5500/
 
 Technologies Used:
 
